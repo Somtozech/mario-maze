@@ -1,0 +1,14 @@
+body {
+	background: #fff;
+	margin: 0;
+	font-family: 'Indie Flower', cursive, 'Montserrat', sans-serif, 'Segoe UI',
+		Tahoma, Geneva, Verdana, sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	color: #2b2b2b;
+}
+
+*,
+html {
+	box-sizing: border-box;
+}
